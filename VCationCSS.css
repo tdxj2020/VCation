@@ -1,0 +1,30 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+
+#mainnavbar .navbar-brand{
+    color:black;
+    font-size:1.5rem;
+    font-weight:bold;
+}
+
+#mainnavbar .nav-link{
+    font-size:1.2rem;
+    font-weight:100;
+}
+
+#mainnavbar .nav-link:hover{
+    font-weight:bold;
+}
+
+.carousel-caption{
+    position: sticky;
+    bottom: 20%;
+    z-index: 20;
+    color: white;
+    text-shadow: 0 3px 5px rgba(0,0,0,1);
+  }
+
+h2{
+    size:0.8em;
+}
